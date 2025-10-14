@@ -1,0 +1,4 @@
+/* Minimal Tailwind-like placeholder. Install Tailwind for production styling. */
+body { font-family: Arial, sans-serif; padding: 20px; }
+.btn { padding: 8px 12px; border-radius: 6px; background: #111827; color: white; border: none; cursor: pointer; }
+.card { border: 1px solid #e5e7eb; padding: 12px; border-radius: 8px; }
